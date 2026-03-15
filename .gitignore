@@ -1,2 +1,5 @@
+**/__pycache__/
+*.pyc
+/build/
 __pycache__/
 *.pyc
